@@ -1,0 +1,12 @@
+body {
+    background-color: #e6e6e6;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #343a40;
+}
+
+.alert {
+    font-size: 1.5em;
+}
