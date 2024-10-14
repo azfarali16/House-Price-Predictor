@@ -10,4 +10,4 @@ The model uses the following attributes to predict the price:
 - `location`
 - `baths`
 - `bedrooms`
-- `area`
+- `area_sqft`
