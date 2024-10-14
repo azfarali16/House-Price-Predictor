@@ -1,6 +1,6 @@
 ## House Price Prediction Model
 
-Created a regression model to predict house prices using `RandomForestRegressor`. Developed in Python, the model leverages data analysis and feature engineering to deliver accurate price predictions. The regression model achieves an R² score of 0.86.
+Created a regression model to predict house prices using `RandomForestRegressor`. Developed in Python, the model leverages data analysis and feature engineering to deliver accurate price predictions. The regression model achieves an R² score of 0.91.
 
 ### Features Used
 
